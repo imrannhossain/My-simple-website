@@ -1,4 +1,6 @@
 div{
     background-color: aquamarine;
     padding: 60px 20px;
+    margin: 20px;
+    border-radius: 10px;
 }
